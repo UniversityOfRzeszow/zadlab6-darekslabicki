@@ -1,4 +1,4 @@
-package pl.edu.ur.oopl6.zad2;
+package pl.edu.ur.oopl6.zad3;
 
 import java.util.Scanner;
 
